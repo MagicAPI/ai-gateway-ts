@@ -21,7 +21,7 @@ The world's fastest AI Gateway proxy, written in TypeScript and optimized for ma
 Clone the repository and install dependencies:
 
 ````bash
-git clone https://github.com/yourusername/magicapi-ai-gateway-ts.git
+git clone https://github.com/MagicAPI/ai-gateway-ts.git
 cd magicapi-ai-gateway-ts
 npm install
 ````
